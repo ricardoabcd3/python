@@ -9,4 +9,4 @@ def run(x):
 
 if __name__=="__main__":
     
-    print(run(1000))
+    print(run(1000)  )
